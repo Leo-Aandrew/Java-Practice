@@ -6,3 +6,5 @@
 4. Variable Scope.
 5. Banking System.
 6. Dice Game.
+7. Arrays.
+8. Varargs.
