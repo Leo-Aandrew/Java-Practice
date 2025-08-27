@@ -8,3 +8,4 @@
 6. Dice Game.
 7. Arrays.
 8. Varargs.
+9. Rock Paper Scissor Game.
