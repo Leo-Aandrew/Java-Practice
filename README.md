@@ -20,4 +20,5 @@
 18. Polymorphism.
 19. Runtime Polymorphism (Method Overriding).
 20. CompileTime Polymorphism (Method Overloading).
+21. Encapsulation (Getter and Setter).
     
