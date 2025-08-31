@@ -8,6 +8,10 @@ package Abstraction;
 // Can contain 'concrete' methods (which are inherited).
 // CONCRETE METHOD = method with body (just like normal method).
 
+// ABSTRACT VS INTERFACE
+// PARTIAL ABSTRACTION / PURE ABSTRACTION
+//   EXTENDS KEYWORD   / IMPLEMENTS KEYWORD
+
 abstract class Shape{
     abstract double area(); // ABSTRACT METHOD
 
@@ -74,3 +78,4 @@ public class Main {
 
     }
 }
+
