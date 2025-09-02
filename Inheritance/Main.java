@@ -3,6 +3,8 @@ package Inheritance;
 // INHERITANCE = Child class inherits the attributes and methods from Parent class.
 // The keywork 'extend' is used for inheritance.
 // child <-- parent <-- grandParent
+// Java supports Single, Multilevel, Hierarchical.
+// We can use Multiple using Interface.
 
                  //// Organism (grandParent)
                  ////    |
@@ -54,3 +56,4 @@ public class Main {
 
     }
 }
+
