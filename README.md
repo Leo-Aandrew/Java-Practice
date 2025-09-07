@@ -28,4 +28,8 @@
 26. Exception Handling.
 27. File Handling.
 28. Dates & Times.
+29. Anonymous Classes.
+30. Timer and TimerTask.
+31. Generics.
+32. HashMaps.
     
